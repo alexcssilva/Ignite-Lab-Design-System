@@ -14,12 +14,12 @@ module.exports = {
     },
 
     colors: {
-      'transparent': 'transparent',
+      transparent: 'transparent',
 
-      'black': '#000',
-      'white': '#FFF',
+      black: '#000',
+      white: '#FFF',
 
-      'gray': {
+      gray: {
         900: '#121214',
         800: '#202024',
         400: '#7c7c8a',
@@ -27,11 +27,10 @@ module.exports = {
         100: '#e1e1e6',
       },
 
-      'cyan': {
-
-      500: '#81d8f7',
-      300: '#98e1fb'
-      }
+      cyan: {
+        500: '#81d8f7',
+        300: '#9BE1FB'
+      },
     },
     extend: {
       fontFamily: {
